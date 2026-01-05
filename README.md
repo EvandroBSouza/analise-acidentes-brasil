@@ -185,7 +185,23 @@ Além dos meses tradicionalmente críticos, como **dezembro** (festas e férias)
 
 Dados públicos de monitoramento de tráfego em rodovias brasileiras indicam **aumento do fluxo de veículos em outubro**, tanto leves quanto pesados, em comparação a meses anteriores. Esse comportamento pode estar associado à intensificação de **operações logísticas, deslocamentos corporativos e preparação para o último trimestre do ano**, elevando a exposição ao risco e ajudando a explicar o volume elevado de acidentes observado no período.
 
----
+# 📊 Dashboards
+
+### Acidentes por Dia da Semana
+![Acidentes por Dia da Semana](dashboards/acidentes_por_dia_da_semana.png)
+
+### Ranking de Acidentes por UF
+![Ranking de Acidentes por UF](dashboards/acidentes_por_uf.png)
+
+### Gravidade dos Acidentes
+![Gravidade dos Acidentes](dashboards/gravidade_acidentes.png)
+
+### Ranking de Acidentes por Mês
+![Ranking de Acidentes por Mês](dashboards/ranking_acidentes_por_mes.png)
+
+### Mortes por Mês
+![Mortes por Mês](dashboards/mortes_por_mes.png)
+
 
 ## 📁 Estrutura do Repositório
 ├── sql/
